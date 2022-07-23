@@ -1,0 +1,3 @@
+function callFunction(fun) {
+    fun();
+}
